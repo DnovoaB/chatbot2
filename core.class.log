@@ -1,0 +1,210 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573205153440@s.whatsapp.net',
+    fromMe: false,
+    id: '8F66A65C62C9D72B3B5BC2263FBE050C',
+    participant: undefined
+  },
+  messageTimestamp: 1729615756,
+  pushName: 'Daniel Novoa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573205153440'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_80a3e52b-93a2-4ca3-846d-6c1089d18f11',
+  keyword: 'key_f29ba0a9-aaf7-4c16-834e-f5fc748b21ea',
+  answer: '🎓 *Bienvenido al Asistente Virtual de Prácticas Profesionales* 🎓',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f9708be29f3ca4afc1e4eee0bc0a9d80'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_18956810-22ff-47eb-bd4f-f10d1bbc1c5a',
+  keyword: 'ans_80a3e52b-93a2-4ca3-846d-6c1089d18f11',
+  answer: 'Por favor, selecciona una opción escribiendo el número correspondiente:\n' +
+    '\n' +
+    '1️⃣ Información sobre prácticas\n' +
+    '2️⃣ Requisitos y proceso de aplicación\n' +
+    '3️⃣ Documentación y formatos\n' +
+    '4️⃣ Preguntas frecuentes (FAQ)\n' +
+    '5️⃣ Contactar a un asesor\n' +
+    '\n' +
+    '💡 Puedes volver a este menú en cualquier momento escribiendo *menu*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5957072d01dca7338110c39073afdeb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152767367@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07C7DD2732B4270AB56',
+    participant: undefined
+  },
+  messageTimestamp: 1729615760,
+  pushName: 'Samuel Novoa',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573152767367'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_80a3e52b-93a2-4ca3-846d-6c1089d18f11',
+  keyword: 'key_f29ba0a9-aaf7-4c16-834e-f5fc748b21ea',
+  answer: '🎓 *Bienvenido al Asistente Virtual de Prácticas Profesionales* 🎓',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f9708be29f3ca4afc1e4eee0bc0a9d80'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_18956810-22ff-47eb-bd4f-f10d1bbc1c5a',
+  keyword: 'ans_80a3e52b-93a2-4ca3-846d-6c1089d18f11',
+  answer: 'Por favor, selecciona una opción escribiendo el número correspondiente:\n' +
+    '\n' +
+    '1️⃣ Información sobre prácticas\n' +
+    '2️⃣ Requisitos y proceso de aplicación\n' +
+    '3️⃣ Documentación y formatos\n' +
+    '4️⃣ Preguntas frecuentes (FAQ)\n' +
+    '5️⃣ Contactar a un asesor\n' +
+    '\n' +
+    '💡 Puedes volver a este menú en cualquier momento escribiendo *menu*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5957072d01dca7338110c39073afdeb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573152767367@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00CB7570E068D41686E',
+    participant: undefined
+  },
+  messageTimestamp: 1729615764,
+  pushName: 'Samuel Novoa',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '573152767367'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e8f2e26-4973-433d-aa3b-d4d459c33478',
+  keyword: 'key_562206d8-0a17-4664-8b01-8e2cbf5a7d1e',
+  answer: '📋 *Requisitos y proceso de aplicación*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5bd1cef552205bb4a20c33a1cdf5f482'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1086f32-1a27-4ec9-b5ad-2914766781f9',
+  keyword: 'ans_9e8f2e26-4973-433d-aa3b-d4d459c33478',
+  answer: 'Selecciona la información que necesitas:\n' +
+    '\n' +
+    '1️⃣ Requisitos para iniciar prácticas\n' +
+    '2️⃣ Proceso de aplicación\n' +
+    '3️⃣ Afiliación a la ARL\n' +
+    '4️⃣ Volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd1559f121be3f249bf75ab7ee6cf19f6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_97e568bd-25ab-493e-b77b-4f416daf594a',
+  keyword: 'ans_a1086f32-1a27-4ec9-b5ad-2914766781f9',
+  answer: 'Escribe el número de tu elección.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '959341ebb721dcce79bad8e97e62ec4e'
+}
